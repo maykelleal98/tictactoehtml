@@ -1,0 +1,4 @@
+/* Custom CSS to ensure Inter font is applied globally */
+body {
+  font-family: 'Inter', sans-serif;
+}
